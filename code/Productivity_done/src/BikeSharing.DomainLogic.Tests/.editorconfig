@@ -1,0 +1,6 @@
+# CSharp code style settings:
+[*.cs]
+# Prefer "explicit type" everywhere
+csharp_style_var_for_built_in_types = true:warning
+csharp_style_var_when_type_is_apparent = true:warning
+csharp_style_var_elsewhere = true:warning
